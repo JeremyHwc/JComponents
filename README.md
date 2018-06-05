@@ -22,13 +22,13 @@
 1.  Parish
 
 >    public class MainActivity extends AppCompatActivity {
->
+
 >        @Override
->        protected void onCreate(Bundle savedInstanceState) {
->            super.onCreate(savedInstanceState);
->            setContentView(R.layout.activity_main);
->        }
->    }
+        protected void onCreate(Bundle savedInstanceState) {
+            super.onCreate(savedInstanceState);
+            setContentView(R.layout.activity_main);
+        }
+    }
 
 
 1.  This is a list item with two paragraphs. Lorem ipsum dolor  <br/>
