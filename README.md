@@ -1,4 +1,4 @@
-# JComponents（组件化架构学习记录库）
+# JComponents（Android组件化架构学习记录）
 
 > ## 这是一个标题哟。
 >
@@ -16,10 +16,6 @@
 +   Red
 +   Green
 +   Blue
-
--   Red
--   Green
--   Blue
 
 2.  Bird
 2.  McHale
