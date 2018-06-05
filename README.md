@@ -1,5 +1,4 @@
-# JComponents
-组件化架构学习记录库
+# JComponents（组件化架构学习记录库）
 
 > ## 这是一个标题。
 >
