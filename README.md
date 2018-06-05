@@ -63,9 +63,9 @@ Use the `printf()` function.
 
 
 
-![Alt text](https://github.com/JeremyHwc/JComponents/tree/master/app/src/main/res/mipmap-hdpi/ic_launcher.png)
+![Alt text](/tree/master/app/src/main/res/mipmap-hdpi/ic_launcher.png)
 
-![Alt text](https://github.com/JeremyHwc/JComponents/tree/master/app/src/main/res/mipmap-hdpi/ic_launcher.png "Optional title")
+![Alt text](/tree/master/app/src/main/res/mipmap-hdpi/ic_launcher.png "Optional title")
 
 
 
