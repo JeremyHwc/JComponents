@@ -44,3 +44,8 @@
     sit amet velit.
 
 2.  Suspendisse id sem consectetuer libero luctus adipiscing.
+
+
+<div class="footer">
+  &copy; 2004 Foo Corporation
+</div>
