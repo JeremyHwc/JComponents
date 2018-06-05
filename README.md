@@ -31,12 +31,12 @@
     }
 
 
-1.  This is a list item with two paragraphs. Lorem ipsum dolor
-    sit amet, consectetuer adipiscing elit. Aliquam hendrerit
+1.  This is a list item with two paragraphs. Lorem ipsum dolor  <br />
+    sit amet, consectetuer adipiscing elit. Aliquam hendrerit  <br />
     mi posuere lectus.
 
-    Vestibulum enim wisi, viverra nec, fringilla in, laoreet
-    vitae, risus. Donec sit amet nisl. Aliquam semper ipsum
+    Vestibulum enim wisi, viverra nec, fringilla in, laoreet  <br />
+    vitae, risus. Donec sit amet nisl. Aliquam semper ipsum  <br />
     sit amet velit.
 
 2.  Suspendisse id sem consectetuer libero luctus adipiscing.
