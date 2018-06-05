@@ -60,3 +60,16 @@ This is [an example](http://example.com/ "Title") inline link.
 Use the `printf()` function.
 
 ``There is a literal backtick (`) here.``
+
+
+
+![Alt text](https://github.com/JeremyHwc/JComponents/tree/master/app/src/main/res/mipmap-hdpi/ic_launcher.png)
+
+![Alt text](https://github.com/JeremyHwc/JComponents/tree/master/app/src/main/res/mipmap-hdpi/ic_launcher.png "Optional title")
+
+
+
+
+
+
+
