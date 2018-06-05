@@ -1,73 +1,16 @@
 # **JComponents（Android组件化架构学习记录）**
 
-> ## 这是一个标题哟。##
+> JComponents项目主要用于记录Android组件化架构的笔记，一共分为以下这些章节：
 >
-> 1.   这是第一行列表项。
-> 2.   这是第二行列表项。
->
-> 给出一些例子代码：
->
->     return shell_exec("echo $input | $markdown_script");
+> 第一章 组件化基础
+> 第二章 组件化编程
+> 第三章 组件化优化
+> 第四章 组件化编译
+> 第五章 组件化分发
+> 第六章 组件化流通
+> 第七章 架构模板
+> 第八章 架构演化
 
-*   Red
-*   Green
-*   Blue
-
-+   Red
-+   Green
-+   Blue
-
-2.  Bird
-2.  McHale
-1.  Parish
-
->    public class MainActivity extends AppCompatActivity {
->
->        @Override
->        protected void onCreate(Bundle savedInstanceState) {
->            super.onCreate(savedInstanceState);
->            setContentView(R.layout.activity_main);
->        }
->    }
-
-
- This is the first level of quoting.
->
-> > This is nested blockquote.
->
-> Back to the first level.
-
-
-1.  This is a list item with two paragraphs. Lorem ipsum dolor  <br/>
-    sit amet, consectetuer adipiscing elit. Aliquam hendrerit  <br/>
-    mi posuere lectus.
-
-    Vestibulum enim wisi, viverra nec, fringilla in, laoreet  <br/>
-    vitae, risus. Donec sit amet nisl. Aliquam semper ipsum  <br/>
-    sit amet velit.
-
-2.  Suspendisse id sem consectetuer libero luctus adipiscing.
-
-
-<div class="footer">
-  &copy; 2004 Foo Corporation
-</div>
-
-This is [an example](http://example.com/ "Title") inline link.
-
-[This link](http://example.net/) has no title attribute.
-
-Use the `printf()` function.
-
-``There is a literal backtick (`) here.``
-
-
-
-![Alt text](/tree/master/app/src/main/res/mipmap-hdpi/ic_launcher.png)
-
-![Alt text](/tree/master/app/src/main/res/mipmap-hdpi/ic_launcher.png "Optional title")
-
-<http://example.com/>
 
 
 
