@@ -21,6 +21,6 @@
 -   Green
 -   Blue
 
-1.  Bird
+2.  Bird
 2.  McHale
-3.  Parish
+1.  Parish
