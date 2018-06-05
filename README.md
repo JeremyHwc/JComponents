@@ -67,6 +67,8 @@ Use the `printf()` function.
 
 ![Alt text](/tree/master/app/src/main/res/mipmap-hdpi/ic_launcher.png "Optional title")
 
+<http://example.com/>
+
 
 
 
