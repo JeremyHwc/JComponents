@@ -1,6 +1,6 @@
 # JComponents（Android组件化架构学习记录）
 
-> ## 这是一个标题哟。
+> ## 这是一个标题哟。##
 >
 > 1.   这是第一行列表项。
 > 2.   这是第二行列表项。
@@ -21,14 +21,14 @@
 2.  McHale
 1.  Parish
 
-    public class MainActivity extends AppCompatActivity {
-
-        @Override
-        protected void onCreate(Bundle savedInstanceState) {
-            super.onCreate(savedInstanceState);
-            setContentView(R.layout.activity_main);
-        }
-    }
+>    public class MainActivity extends AppCompatActivity {
+>
+>        @Override
+>        protected void onCreate(Bundle savedInstanceState) {
+>            super.onCreate(savedInstanceState);
+>            setContentView(R.layout.activity_main);
+>        }
+>    }
 
 
 1.  This is a list item with two paragraphs. Lorem ipsum dolor  <br/>
